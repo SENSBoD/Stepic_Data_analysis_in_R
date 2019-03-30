@@ -1,1 +1,3 @@
-# Stepic_Data_analysis_in_R
+# Stepic Data analysis in R
+
+https://stepik.org/course/129/syllabus
